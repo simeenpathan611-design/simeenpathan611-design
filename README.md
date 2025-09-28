@@ -8,12 +8,11 @@ Welcome to my GitHub! I’m passionate about building scalable applications, cre
 
 ## 🚀 About Me  
 
-- 🎓 **Bachelor’s in Pharmacy** with a strong foundation in technology & data.
+- 🎓 **Bachelor’s in Data Science** with a strong foundation in technology & data.
 - 🏢 **Currently**: Consulting Engineer in the **AI team at EY Global Delivery Services**.
 - 🤝 **Past Internships**:  
   - **Tata** – Built Tableau dashboards and business analysis reports.  
-  - **Wells Fargo** – Designed ER diagrams and implemented data models in Java.  
-  - **Marksans Pharmaceuticals** – Gained insights into pharma & tech workflows.  
+  - **Wells Fargo** – Designed ER diagrams and implemented data models in Java.    
 - 💡 Experienced in **Python, Machine Learning, NLP, Generative AI, Full-Stack Development (MERN, Django, Flutter)**.
 - 📚 Continuously learning about **LLMs, Vector Databases, AI deployment (AWS, Azure, Hugging Face)**.
 
@@ -29,7 +28,7 @@ Welcome to my GitHub! I’m passionate about building scalable applications, cre
 `YOLOv8` `TensorFlow` `PyTorch` `Pandas` `NumPy` `OpenCV`
 
 ### 📈 Tools & Platforms  
-`Tableau` `Power BI` `Figma` `LangChain` `ChromaDB` `FAISS` `Azure AI` `AWS` `Hugging Face`
+`Tableau` `Power BI` `Figma` `LangChain` `ChromaDB` `Azure AI` `AWS` `Hugging Face`
 
 ---
 
